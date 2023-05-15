@@ -9,3 +9,4 @@ include:
 
 * [Logo, typography, and color pallette](logo-and-typography/README.md)
 * [PCB design requirements/standards](pcb/README.md)
+* [Part numbers and bill of materials (BOM)](part-numbers/README.md)
